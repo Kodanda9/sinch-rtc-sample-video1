@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable_button_end.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable\\button_end.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_pressed.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\login_pressed.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_callbg.9.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-xhdpi\\callbg.9.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_call_normal.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\call_normal.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small_green_normal.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\small_green_normal.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable_button_decline.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable\\button_decline.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\layout_incoming.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\layout\\incoming.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_big_red_pressed.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\big_red_pressed.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_big_red_normal.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\big_red_normal.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small_red_normal.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\small_red_normal.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_login_normal.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\login_normal.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small_green_pressed.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\small_green_pressed.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable_button_login.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable\\button_login.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\raw_phone_loud1.mp3.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\raw\\phone_loud1.mp3"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable_button_call.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable\\button_call.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_small_red_pressed.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\small_red_pressed.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable_button_accept.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable\\button_accept.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_call_pressed.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-hdpi\\call_pressed.png"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\layout_callscreen.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\layout\\callscreen.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\raw_progress_tone.wav.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\raw\\progress_tone.wav"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable_inputbox.xml.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable\\inputbox.xml"
+    },
+    {
+        "merged": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_startbg.9.png.flat",
+        "source": "F:\\Refer\\Sinch\\sinch-rtc-sample-video\\res\\drawable-xhdpi\\startbg.9.png"
+    }
+]

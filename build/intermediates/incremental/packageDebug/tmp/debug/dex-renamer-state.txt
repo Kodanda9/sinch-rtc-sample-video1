@@ -1,0 +1,4 @@
+#Wed Dec 05 11:31:38 IST 2018
+base.0=F\:\\Refer\\Sinch\\sinch-rtc-sample-video\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
